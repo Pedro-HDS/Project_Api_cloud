@@ -1,0 +1,1 @@
+web: java -jar build/libs/Project_Api_cloud-0.0.1-SNAPSHOT.jar
